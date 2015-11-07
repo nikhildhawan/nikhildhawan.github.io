@@ -66,6 +66,14 @@ label {
     margin-bottom: 1em;
 }
 
+.pure-form textarea {
+    border: 2px solid #ddd;
+    box-shadow: none;
+    font-size: 100%;
+    width: 100%;
+    margin-bottom: 1em;
+}
+
 /*
  * -- PURE BUTTON STYLES --
  * I want my pure-button elements to look a little different
@@ -253,7 +261,7 @@ a.pure-button-primary {
     /* We decrease the width of the .splash, since we have more width
     to work with */
     .splash {
-        width: 50%;
+        width: 55%;
         height: 50%;
     }
 
